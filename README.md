@@ -16,23 +16,37 @@ You can also browse a list of all the [DTP-CASE projects](dtp-case/dtp-case-proj
 ## Browse projects by research theme
 
 [Advanced Materials](themes/advanced-materials.md)
+
 [Artificial Intelligence and Robotics](themes/artificial-intelligence-and-robotics.md)
+
 [Circular Economy](themes/circular-economy.md)
+
 [Digital Security and Resilience](themes/digital-security-and-resilience.md)
+
 [Engineering](themes/engineering.md)
+
 [Healthcare Technologies](themes/healthcare-technologies.md)
+
 [Information and Communication Technologies](themes/information-and-communication-technologies.md)
+
 [Manufacturing The Future](themes/manufacturing-the-future.md)
+
 [Mathematical Sciences](themes/mathematical-sciences.md)
+
 [Physical Sciences](themes/physical-sciences.md)
+
 [Quantum Technologies](themes/quantum-technologies.md)
+
 
 ## Browse projects by lead department
 
 ### Faculty of Brain Sciences
 [Division of Psychology and Lang Sciences](departments/division-of-psychology-and-lang-sciences.md
+
 [Ear Institute](departments/ear-institute.md
+
 [Queen Square Institute of Neurology](departments/queen-square-institute-of-neurology.md
+
 
 ### Faculty of the Built Environment
 [Bartlett School of Architecture](departments/bartlett-school-of-architecture.md
