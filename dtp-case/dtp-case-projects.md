@@ -6,7 +6,7 @@ DTP-CASE projects have an industrial partner, and involve time spent on placemen
 
 [2228cc1445](../projects/2228cc1445.md) The future role of UK refineries in a net zero transition
 
-[2228cc1445](../projects/2226cc1446.md) MIST CVD
+[2228cc1446](../projects/2226cc1446.md) MIST CVD
 
 [2228cc1447](../projects/2228cc1447.md) Cell free DNA manufacturing to control sequence and topology and improve transfection efficiency / product quality in cell and gene therapy applications
 
