@@ -64,4 +64,4 @@ Information about Chemistry can be found on the [departmental website](https://w
 
 [2228cd1383](../projects/2228cd1383.md) Towards gallium oxide thin film based electronic devices
 
-[2228cc1446](../projects/2228cc1466.md) MIST CVD
+[2228cc1446](../projects/2228cc1446.md) MIST CVD
