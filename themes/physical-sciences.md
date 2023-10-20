@@ -4,7 +4,7 @@ This page lists all the available projects in the Physical Sciences research the
 
 Information about Physical Sciences can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/physical-sciences-theme/)
 
-[2228cc1446](.../projects/2228cc1446.md) MIST CVD
+[2228cc1446](../projects/2228cc1446.md) MIST CVD
 
 [2228cd1242](../projects/2228cd1242.md) Plastic fragmentation in the oceans and in museums
 
