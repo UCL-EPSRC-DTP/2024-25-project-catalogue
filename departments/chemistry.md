@@ -4,6 +4,8 @@ This page lists all the available projects hosted in the Chemistry department.
 
 Information about Chemistry can be found on the [departmental website](https://www.ucl.ac.uk/chemistry)
 
+[2228cc1446](../projects/2228cc1446.md) MIST CVD
+
 [2228cd1354](../projects/2228cd1354.md) Computer Modelling of SnO2-based sensor materials
 
 [2228cd1355](../projects/2228cd1355.md) Machine-learning accelerated nonadiabatic dynamics for organic molecules
@@ -64,4 +66,3 @@ Information about Chemistry can be found on the [departmental website](https://w
 
 [2228cd1383](../projects/2228cd1383.md) Towards gallium oxide thin film based electronic devices
 
-[2228cc1446](../projects/2228cc1446.md) MIST CVD
