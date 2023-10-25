@@ -12,6 +12,8 @@ Information about Quantum Technologies can be found on [EPSRC’s website](https
 
 [2228cd1415](../projects/2228cd1415.md) Quantum metrology with triatomic molecules to probe physics beyond the Standard Model
 
+[2228cd1416](../projects/2228cd1416.md) Polariton and circuit QED lattices: quantum simulations of correlated and topological states
+
 [2228cd1418](../projects/2228cd1418.md) Solid-state Masers
 
 [2228cd1422](../projects/2228cd1422.md) Hybrid Quantum Information Processing with Rydberg atoms and Superconducting Circuits
