@@ -60,8 +60,6 @@ Information about Physical Sciences can be found on [EPSRC’s website](https://
 
 [2228cd1413](../projects/2228cd1413.md) Next-generation single-molecule microscopy for understanding nucleic acid-lipid interactions
 
-[2228cd1416](../projects/2228cd1416.md) Polariton and circuit QED lattices: quantum simulations of correlated and topological states
-
 [2228cd1417](../projects/2228cd1417.md) Optical trapping and spectroscopy of 2D nanomaterials
 
 [2228cd1419](../projects/2228cd1419.md) Design magnetoelectric nanoparticles with outstanding physical property for biomedical applications
