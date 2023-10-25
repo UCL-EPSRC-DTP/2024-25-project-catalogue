@@ -8,7 +8,7 @@ Information about Engineering can be found on [EPSRC’s website](https://www.uk
 
 [2228cc1449](../projects/2228cc1449.md) Characterising the vulnerability of the built environment to tomorrow’s natural hazards
 
-[2228cc1455](../projects/2228cc1455.md) Optimided Efficiency and Compact Integration of Drive Unit for Ultra-High-Speed Electric Motors
+[2228cc1455](../projects/2228cc1455.md) Optimised Efficiency and Compact Integration of Drive Unit for Ultra-High-Speed Electric Motors
 
 [2228cd1243](../projects/2228cd1243.md) The fluid dynamics of historic ventilation engineering
 
