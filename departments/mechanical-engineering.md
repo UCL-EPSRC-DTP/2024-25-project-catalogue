@@ -4,7 +4,7 @@ This page lists all the available projects hosted in the Mechanical Engineering 
 
 Information about Mechanical Engineering can be found on the [departmental website](https://www.ucl.ac.uk/mechanical-engineering)
 
-[2228cc1455](../projects/2228cc1455.md) Optimided Efficiency and Compact Integration of Drive Unit for Ultra-High-Speed Electric Motors
+[2228cc1455](../projects/2228cc1455.md) Optimised Efficiency and Compact Integration of Drive Unit for Ultra-High-Speed Electric Motors
 
 [2228cc1456](../projects/2228cc1456.md) OPtimise POwder pRoducTion UsiNg Intelligent Sensing Technologies (OPPORTUNIST)
 
