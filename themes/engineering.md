@@ -10,7 +10,7 @@ Information about Engineering can be found on [EPSRC’s website](https://www.uk
 
 [2228cc1455](../projects/2228cc1455.md) Optimised Efficiency and Compact Integration of Drive Unit for Ultra-High-Speed Electric Motors
 
-[2228cc1457](../projects/2228cc1457.md) ntegrated Vessel Health Management (IVHM) for the Maritime Autonomous Surface Ship (MASS)
+[2228cc1457](../projects/2228cc1457.md) Integrated Vessel Health Management (IVHM) for the Maritime Autonomous Surface Ship (MASS)
 
 [2228cd1243](../projects/2228cd1243.md) The fluid dynamics of historic ventilation engineering
 
