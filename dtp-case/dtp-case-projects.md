@@ -28,3 +28,5 @@ DTP-CASE projects have an industrial partner, and involve time spent on placemen
 
 [2228cc1456](../projects/2228cc1456.md) OPtimise POwder pRoducTion UsiNg Intelligent Sensing Technologies (OPPORTUNIST)
 
+[2228cc1457](../projects/2228cc1457.md) Integrated Vessel Health Management (IVHM) for the Maritime Autonomous Surface Ship (MASS)
+
