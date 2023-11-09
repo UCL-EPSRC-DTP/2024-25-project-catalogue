@@ -8,7 +8,7 @@ Information about Mechanical Engineering can be found on the [departmental websi
 
 [2228cc1456](../projects/2228cc1456.md) OPtimise POwder pRoducTion UsiNg Intelligent Sensing Technologies (OPPORTUNIST)
 
-[2228cc1457](..projects/2228cc1457.md) Integrated Vessel Health Management (IVHM) for the Maritime Autonomous Surface Ship (MASS)
+[2228cc1457](../projects/2228cc1457.md) Integrated Vessel Health Management (IVHM) for the Maritime Autonomous Surface Ship (MASS)
 
 [2228cd1305](../projects/2228cd1305.md) Micromechanical modelling of irradiation creep in novel steels for nuclear fusion
 
