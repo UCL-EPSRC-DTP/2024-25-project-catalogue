@@ -20,6 +20,8 @@ Information about Advanced Materials can be found on [EPSRC’s website](https:/
 
 [2228cd1358](../projects/2228cd1358.md) Low Thermal Conversion Platinum Group Precursors for the Spray Printing of Fuel Cells
 
+[2228cd1380](../projects/2228cd1380.md) Ontology infused AI for Materials Discovery
+
 [2228cd1393](../projects/2228cd1393.md) Emergent helical dipole textures in quadruple perovskites
 
 [2228cd1397](../projects/2228cd1397.md) Nanoscale ferroelectricity in epitaxial oxide heterostructures
