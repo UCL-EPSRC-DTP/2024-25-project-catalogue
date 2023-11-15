@@ -40,8 +40,6 @@ Information about Physical Sciences can be found on [EPSRC’s website](https://
 
 [2228cd1377](../projects/2228cd1377.md) Making quantum matter - synthesis and study of quantum spin liquids
 
-[2228cd1380](../projects/2228cd1380.md) Ontology infused AI for Materials Discovery
-
 [2228cd1383](../projects/2228cd1383.md) Towards gallium oxide thin film based electronic devices
 
 [2228cd1384](../projects/2228cd1384.md) Compound Drought & Groundwater Drought: Assessing Antecedent conditions on drought metrics
