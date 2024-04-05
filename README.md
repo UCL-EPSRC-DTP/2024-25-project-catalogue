@@ -3,6 +3,7 @@
 This catalogue lists all the projects available for applicants to the UCL EPSRC DTP for 2024/25. [See the main website for details on how to apply.](https://rebrand.ly/ai0o4al)
 
 **Important:** The round 1 deadline has passed. The deadline for round 2 applications is 13:00 UK on 06 May 2024. Round 2 is for Home status candidates only. Applications will only be considered if there are remaining places available after all round 1 offers have been made.
+**Some projects state "Under offer" in their summary page.** This means that an offer has been made to a candidate who applied to this project. The project will only be available to other candidates if they reject their offer or withdraw. It is not possible to predict whether a project under offer is likely to become re-available, nor to provide any information on the timing of this as candidates may decide to withdraw at any time even after accepting an offer made to them.
 
 **Note:** Where unavoidable, the UCL EPSRC DTP reserves the right to withdraw projects from the catalogue before or after the application deadline. Candidates who have applied to a project that has been withdrawn will be informed as soon as possible.
 
