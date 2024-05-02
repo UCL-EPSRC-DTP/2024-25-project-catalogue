@@ -6,7 +6,7 @@ This catalogue lists all the projects available for applicants to the UCL EPSRC 
 
 **Only the following DTP-CASE projects are still available:**
 
-[2228cc1448](../projects/2228cc1448.md) Scour around coastal and offshore structures under complex wave and current conditions
+[2228cc1448](projects/2228cc1448.md) Scour around coastal and offshore structures under complex wave and current conditions
 
 DTP-CASE projects all have an industrial collaborator and include a placement spent at the collaborator’s premises.
 
