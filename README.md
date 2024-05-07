@@ -4,7 +4,7 @@ This catalogue lists all the projects available for applicants to the UCL EPSRC 
 
 **Important:** The round 1 deadline has passed. The deadline for round 2 applications is 13:00 UK Time on Wednesday 29 May 2024. Round 2 is for Home status candidates only.
 
-**Only the following DTP-CASE projects are still available:**
+**Only the following DTP-CASE projects are still available (others may be re-added, please check back later if the specific DTP-CASE studentship you were interested in is not shown):**
 
 [2228cc1448](projects/2228cc1448.md) Scour around coastal and offshore structures under complex wave and current conditions
 
