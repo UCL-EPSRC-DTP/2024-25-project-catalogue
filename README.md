@@ -8,6 +8,8 @@ This catalogue lists all the projects available for applicants to the UCL EPSRC 
 
 [2228cc1448](projects/2228cc1448.md) Scour around coastal and offshore structures under complex wave and current conditions
 
+[2228cc1445] (projects/2228cc1445.md) The future role of UK refineries in a net zero transition
+
 DTP-CASE projects all have an industrial collaborator and include a placement spent at the collaborator’s premises.
 
 **Note:** Where unavoidable, the UCL EPSRC DTP reserves the right to withdraw projects from the catalogue before or after the application deadline. Candidates who have applied to a project that has been withdrawn will be informed as soon as possible.
