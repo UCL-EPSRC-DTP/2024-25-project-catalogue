@@ -10,6 +10,8 @@ This catalogue lists all the projects available for applicants to the UCL EPSRC 
 
 [2228cc1445](projects/2228cc1445.md) The future role of UK refineries in a net zero transition
 
+[2228cc1451](projects/2228cc1451.md) Developing tools to catalogue emissions from thermal events in Li-ion batteries
+
 DTP-CASE projects all have an industrial collaborator and include a placement spent at the collaborator’s premises.
 
 **Note:** Where unavoidable, the UCL EPSRC DTP reserves the right to withdraw projects from the catalogue before or after the application deadline. Candidates who have applied to a project that has been withdrawn will be informed as soon as possible.
